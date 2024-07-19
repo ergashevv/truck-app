@@ -476,7 +476,7 @@ function App() {
         <div className="container">
           <div className="inner">
             <div className="left">
-              <h1>Consultation/ mailga ulash kerak</h1>
+              <h1>Consultation</h1>
               <form onSubmit={handleSubmit}>
                 <input
                   value={formData.name} onChange={handleChange}
