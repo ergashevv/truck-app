@@ -60,7 +60,7 @@ function App() {
         'service_dfybnm7', // Replace with your EmailJS service ID
         'template_ao7o2ki', // Replace with your EmailJS template ID
         formData,
-        'BdhviiSTDPm4S-3Kl' // Replace with your EmailJS user ID
+        'BdhviiSTDPm4S-3Kl'
       )
       .then(
         (response) => {
