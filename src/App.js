@@ -16,7 +16,7 @@ import Image10 from "./mobile3.png";
 import Image11 from "./mobile4.png";
 import DataImage from "./data.PNG";
 import Logo from "./svf.svg";
-import BigImage from "./bigimage.PNG";
+import BigImage from "./bigimage.JPG";
 import Hero from "./sliderrasm.jpg";
 import AboutImage from "./Frame 1 (1).png";
 import emailjs from "@emailjs/browser";
